@@ -1,6 +1,6 @@
 # Welcome to The Diamonds Members Guide
 
-The Diamonds is a virtual erging group with some 3,000 members from all parts of the world. To join prospective members must be over 60 (or will turn 60 during the current rowing season) and workout on a Concept 2 erg. while most members row, many also use Concept 2 SkiErgs or BikeErgs.
+The Diamonds is a virtual erging group with some 3,000 members from all parts of the world. To join prospective members must be 59 or over (or will turn 59 during the current rowing season) and workout on a Concept 2 erg. while most members row, many also use Concept 2 SkiErgs or BikeErgs.
 
 We participate in competitions against other clubs, regional, national and world championships and our own internal competitions. Details of those competitions can be found [here](competitions). Links to the current standings in our internal competitions may be found below:
 
