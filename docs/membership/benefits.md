@@ -2,7 +2,7 @@
 
 ## Fellowship
 
-Indoor rowing and erging n general can be a very isolating form of exercise. By affiliating to the Diamonds you become part of the World's largest rowing club, and part of a team with over 3,000 members.
+Indoor rowing, and erging in general, can be a very isolating form of exercise. By affiliating to the Diamonds you become part of the World's largest rowing club, and part of a team with over 3,000 members.
 
 ## Participation in World Record Attempt
 
