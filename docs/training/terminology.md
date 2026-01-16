@@ -34,3 +34,7 @@ You may also see pacing advice in the form "2k + 3". This happens often when dis
 ## Force Curve
 
 Coming soon ...
+
+## Season
+
+Most sports have a season, usually designed around the times of year when participation is likely to be highest and therefore geographically-specific. Indoor Rowing can be done all year round, so the season is a full 12 months long, starting on May 1st and running to the end of the following April.
