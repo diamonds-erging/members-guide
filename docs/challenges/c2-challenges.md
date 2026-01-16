@@ -6,9 +6,9 @@ Participate and log metres during each challenge and Concept2 will make generate
 
 ## Team Challenges
 
-Twice a year there are team challenges. On ein January and the other from mid-September to mid-October. We'll announce these through our weekly email and Faceboohk group as they approach.
+Twice a year there are team challenges. On in January and the other from mid-September to mid-October. We'll announce these through our weekly email and Faceboohk group as they approach.
 
-Even if you are affiliated to the Diamonds, and therefore part of our team, you may need to join the team in your logbook to particpate in these team challenges (yes we know that's confusing but it's outside our control).
+Even if you are affiliated to the Diamonds, and therefore part of our team, you will need to join the team in your logbook to particpate in each team challenges (yes we know that's confusing but it's outside our control).
 
 We have many members who find these challenges align nicely with their desire for consistent, long, gentle rows, and so consistently win the challenges by some way.
 
