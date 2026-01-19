@@ -10,12 +10,11 @@ To set it.... On the monitor press ''More Options''.... then press ...''Display 
 
 Raising the lever raises the number...lowering the lever lowers it. I'd suggest starting at 110 then experiment from there to find what suits you best, here's some useful info;
 
-https://www.youtube.com/watch?v=Rym4Qb3S5q0&t=268s
+[What is drag factor and how to set your damper](https://www.youtube.com/watch?v=Rym4Qb3S5q0&t=268s)
 
-https://www.youtube.com/watch?v=52gBjqVGWXs
+[Checking the 'Drag Factor' on a Concept2 indoor rower](https://www.youtube.com/watch?v=52gBjqVGWXs)
 
-Stop rowing on 10
-https://www.youtube.com/watch?v=t9yk4lLzuKo
+[Stop rowing on 10 - How to set the damper](https://www.youtube.com/watch?v=t9yk4lLzuKo)
 
 ## PB and PR
 
@@ -33,7 +32,23 @@ You may also see pacing advice in the form "2k + 3". This happens often when dis
 
 ## Force Curve
 
-Coming soon ...
+An important resource on the Concept2 monitor is the Force Curve. It can be accessed when a workout is on the screen, by pressing the "Display" button until a graph with the text "N lbf" on the left axis appears. These stand for Newtons and pounds force, the which are the metric and US units of force respectively. As you row a curve will appear showing the amount of force detected for each micro interval of the current stroke.
+
+<img src="../../assets/images/c2-ideal-force-curve.gif"
+     alt="Concept2 Ideal Force Curve"
+     style="float: right; margin: 0 0 1em 1em; width: 150px;">
+
+Here's an example of a force curve. This one is taken from [the Concept2 site](https://www.concept2.ch/de/node/111) and is an example of what is often described as optimal (we'll come back to that in a moment!) It shows the result of employing the commonly advised legs - trunk - arms sequencing, rising smoothly to a peak and then falling back again. And many rowers will spend significant effort trying to match this pattern.
+
+<div style="clear: both;"></div>
+
+<img src="../../assets/images/pc-optimal-force-curve.jpg"
+     alt="Alternative Optimal Force Curve"
+     style="float: left; margin: 0 1em 1em 0; width: 150px;">
+
+However, as hinted earlier, there is an alternative view, strongly held by many world and national record-holding Diamonds, that the force curve to the left is actually more efficient. Note how it arrives at peak force much more quickly, and holds it throughout the drive phase of the stroke, dropping away only during the recovery. The peak force is lower, and easier to reach, but is held for much longer.
+
+<div style="clear: both;"></div>
 
 ## Season
 
